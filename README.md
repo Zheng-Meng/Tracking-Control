@@ -10,7 +10,7 @@ Note that we use a built-in package 'matsplit' in MATLAB. Please click 'Home', c
 
 # Citation
 This work is available at [https://www.nature.com/articles/s41467-023-41379-3](https://www.nature.com/articles/s41467-023-41379-3), and can be cited with the followling bibtex entry:
-
+```
 @article{zhai2023model,
   title={Model-free tracking control of complex dynamical trajectories with machine learning},
   author={Zhai, Zheng-Meng and Moradi, Mohammadamin and Kong, Ling-Wei and Glaz, Bryan and Haile, Mulugeta and Lai, Ying-Cheng},
@@ -21,3 +21,4 @@ This work is available at [https://www.nature.com/articles/s41467-023-41379-3](h
   year={2023},
   publisher={Nature Publishing Group UK London}
 }
+```
