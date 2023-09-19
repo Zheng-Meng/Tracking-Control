@@ -14,6 +14,8 @@ Run 'main.m' with traj_type = 'circle', you will get the ground truth and tracke
 
 ![Lorenz](./examples/circle.png)
 
+Change traj_type to others to track different trajectories, e.g., traj_type = 'lorenz'.  
+
 # Citation
 This work is available at [https://www.nature.com/articles/s41467-023-41379-3](https://www.nature.com/articles/s41467-023-41379-3), and can be cited with the followling bibtex entry:
 ```
