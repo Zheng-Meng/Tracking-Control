@@ -1,8 +1,9 @@
 # TrackingControl
 Codes of a submitted manuscript to Nature Communications.
+
 [Paper](https://www.nature.com/articles/s41467-023-41379-3) has been published in Nature Communications!
 
-# Desired trajectories
+# Requirements
 Please download the dataset at https://doi.org/10.5281/zenodo.8044994 <br>
 The chaotic trajectories should be moved into the folder: read_data. The periodic trajectories are generated in the code
 
