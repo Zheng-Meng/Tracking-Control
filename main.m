@@ -7,8 +7,8 @@ addpath('./tools/')
 load('./save_file/all_traj_06282022.mat')
 
 % choose the reference trajectory
-traj_type = 'lorenz';
-% traj_type = 'circle';
+% traj_type = 'lorenz';
+traj_type = 'circle';
 % traj_type = 'mg17';
 % traj_type = 'infty';
 % traj_type = 'fermat';
