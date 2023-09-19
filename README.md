@@ -9,6 +9,11 @@ The chaotic trajectories should be moved into the folder: read_data. The periodi
 
 Note that we use a built-in package 'matsplit' in MATLAB. Please click 'Home', choose 'Add-Ons', search this package and install it to run the code.
 
+# Example
+Run 'main.m' with traj_type = 'lorenz', you will get the ground truth and tracked trajectories in the picture bellow: 
+
+./examples/lorenz.png
+
 # Citation
 This work is available at [https://www.nature.com/articles/s41467-023-41379-3](https://www.nature.com/articles/s41467-023-41379-3), and can be cited with the followling bibtex entry:
 ```
