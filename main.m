@@ -26,7 +26,6 @@ traj_type = 'circle';
 
 % traj_frequency = 75;
 
-% time_infor.val_length=150000;
 time_infor.val_length=200000;
 bridge_type = 'cubic';
 failure.type = 'none';
