@@ -1,7 +1,7 @@
-# TrackingControl
+# Tracking Control
 Codes of a submitted manuscript to Nature Communications.
 
-[Paper](https://www.nature.com/articles/s41467-023-41379-3) has been published in Nature Communications!
+[Model-free tracking control of complex dynamical trajectories with machine learning](https://www.nature.com/articles/s41467-023-41379-3) has been published in Nature Communications!
 
 # Requirements
 Please download the dataset at https://doi.org/10.5281/zenodo.8044994 <br>
